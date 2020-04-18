@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(146, 9, 36);
+    background-color: crimson;
+    background: -webkit-linear-gradient(to left, crimson, rgb(31, 1, 7));
+    background: linear-gradient(to left, crimson, rgb(31, 1, 7));
+}
+/*button*/
+#calculate {
+    margin: 1%;
+    margin-top: 4%;
+    margin-left: 30%;
+    padding: 3% 7%;
+    color: white;
+    background-color: crimson;
+}
+
+/*container*/
+#container {
+    font-family: serif;
+    height: 375px;
+    width: 370px;
+    margin: 100px auto;
+    border-radius: 20px;
+    background-color: wheat;
+}
+p {
+    padding: 0 2%;
+}
+/*title*/
+.title {
+    font-family: 'Bowlby One', cursive;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    background-color: rgb(99, 5, 24);
+}
+
+#servicequality {
+    margin-left: 25%;
+    font-weight: 900;
+}
